@@ -1,8 +1,5 @@
 <h1 align="center"> PeaterPita </h1>
-<p align="center"> 
-
-    Hobbyist Developer, Homelab tinkerer, and general Tech Enthusiast 
-</p>
+<p align="center"> Hobbyist Developer, Homelab tinkerer, and general Tech Enthusiast </p>
 
 ___
 
