@@ -32,7 +32,8 @@
 ## Active Stats
 ![Languages Breakdown](https://github-readme-stats.vercel.app/api/wakatime?username=d467d029-0079-4dd8-8b00-46b340ebe1bf&api_domain=wakapi.peaterpita.com&bg_color=1A202C&title_color=2F855A&icon_color=2F855A&text_color=ffffff&custom_title=Language+Breakdown+%28Since+May+28th%29&layout=compact&hide=Unknown,Text)
 
-___
+# 
+
 <p align="center">
     <a href="mailto:contact@peaterpita.com">Email</a> ·
     <strong>Discord:</strong> peaterpita ·
