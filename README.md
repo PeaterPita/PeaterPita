@@ -5,7 +5,6 @@
 ## What I'm Working on
   - **Declarative Everything:** I manage all of my personal machines through the use of **Nix**. [Dots](https://github.com/PeaterPita/Config.NixOS)
     + **Homelab:** This even includes my homelab, Fully declarative; built from the same repo. Running personal services used every day.
-
   - **Mnemosyne:** My In-Development portfolio and blog, built using **Astro**. Live at: [peaterpita.com](https://peaterpita.com)
   - **Research:** Expanding my academic ledger by progressing on through a Masters Degree. Topic undecided at the moment.
 
@@ -33,7 +32,7 @@
 ## Active Stats
 ![Languages Breakdown](https://github-readme-stats.vercel.app/api/wakatime?username=d467d029-0079-4dd8-8b00-46b340ebe1bf&api_domain=wakapi.peaterpita.com&bg_color=1A202C&title_color=2F855A&icon_color=2F855A&text_color=ffffff&custom_title=Language+Breakdown+%28Since+May+28th%29&layout=compact&hide=Unknown,Text)
 
-## Contact Me
+___
 <p align="center">
     <a href="mailto:contact@peaterpita.com">Email</a> ·
     <strong>Discord:</strong> peaterpita ·
