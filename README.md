@@ -1,12 +1,12 @@
 <h1 align="center"> PeaterPita </h1>
 <p align="center"> Hobbyist Developer, Homelab tinkerer, and general Tech Enthusiast </p>
 
-___
-
 
 ## What I'm Working on
   - **Declarative Everything:** I manage all of my personal machines through the use of **Nix**. [Dots](https://github.com/PeaterPita/Config.NixOS)
     + **Homelab:** This even includes my homelab, Fully declarative; built from the same repo. Running personal services used every day.
+
+  - **Mnemosyne:** My In-Development portfolio and blog, built using **Astro**. Live at: [peaterpita.com](https://peaterpita.com)
   - **Research:** Expanding my academic ledger by progressing on through a Masters Degree. Topic undecided at the moment.
 
 
@@ -20,9 +20,22 @@ ___
     <img src="https://img.shields.io/badge/Nix-5277C3.svg?&logo=NixOS&logoColor=white&style=for-the-badge" alt="Nix">
     <img src="https://img.shields.io/badge/Rust-%23000000.svg?e&logo=rust&logoColor=white&style=for-the-badge" alt="Rust">
     <img src="https://img.shields.io/badge/Python-1A202C?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+    <img src="https://img.shields.io/badge/Astro-BC52EE?logo=astro&logoColor=white&style=for-the-badge" alt="Astro">
+</p>
+
+<p align="center">
+    <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=000&style=for-the-badge" alt="Linux">
+    <img src="https://img.shields.io/badge/Traefik-24A1C1?logo=traefikproxy&logoColor=fff&style=for-the-badge" alt="Traefik">
 </p>
 
 
 
 ## Active Stats
 ![Languages Breakdown](https://github-readme-stats.vercel.app/api/wakatime?username=d467d029-0079-4dd8-8b00-46b340ebe1bf&api_domain=wakapi.peaterpita.com&bg_color=1A202C&title_color=2F855A&icon_color=2F855A&text_color=ffffff&custom_title=Language+Breakdown+%28Since+May+28th%29&layout=compact&hide=Unknown,Text)
+
+## Contact Me
+<p align="center">
+    <a href="mailto:contact@peaterpita.com">Email</a> ·
+    <strong>Discord:</strong> peaterpita ·
+    <a href="https://peaterpita.com">Personal Site</a>
+</p>
